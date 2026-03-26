@@ -1,1 +1,0 @@
-trait_name,id,consortium,ancestry,sample_size,PMID,download_url\nCase-control study,1,Consortium A,European,1000,12345678,http://example.com/download1\nMeta-analysis,2,Consortium B,Asian,2000,87654321,http://example.com/download2\nCohort study,3,Consortium C,African,1500,23456789,http://example.com/download3\n\n
