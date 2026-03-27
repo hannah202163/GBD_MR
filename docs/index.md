@@ -134,13 +134,10 @@ Total **106 GWAS studies** across 4 ancestry groups:
 | Metric | Definition |
 |--------|-----------|
 | **Death** | Death |
-| **DALY** | Disability-Adjusted Life Year |
-| **YLD** | Years Lived with Disability |
-| **YLL** | Years of Life Lost |
 
 ### Analysis
 
-- Temporal trends (1990-2021)
+- Temporal trends (1994-2023)
 - Regional variation
 - CKD-attributable IHD burden
 
