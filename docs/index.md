@@ -44,8 +44,9 @@ Welcome to the supplementary materials for our study.
 - **Table S3**: Age-standardized mortality rate, trends, and decomposition analysis of ischemic heart disease attributable to chronic kidney disease across 204 countries and territories  (1994–2023).
 - **Table S4**: Age-period-cohort analysis of chronic kidney disease-attributable ischemic heart disease mortality by category (1994–2023).
 - **Table S5**: Pearson correlation analysis between the Socio-demographic Index and age-standardized mortality rates in 2023 across distinct transition categories.
-- **Table S6**: Frontier analysis of age-standardized mortality rates for chronic kidney disease-attributed ischemic heart. disease across 204 countries and territories (1994–2023)
+- **Table S6**: Frontier analysis of age-standardized mortality rates for chronic kidney disease-attributed ischemic heart. disease across 204 countries and territories (1994–2023).
 - **Table S7**: Comprehensive multi-ancestry Mendelian randomization estimates and sensitivity analyses for modifiable exposures, chronic kidney disease, and ischemic heart disease.
+  
 ---
 
 ## 💻 Code & Data Availability
