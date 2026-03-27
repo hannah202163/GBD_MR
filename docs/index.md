@@ -6,8 +6,8 @@ Welcome to the supplementary materials for our study.
 
 | File | Format | Description | Link |
 |------|--------|-------------|------|
-| **Supplementary Materials 1** | PDF | Methods, Supplementary Tables & Figures | [📄 Download PDF](Supplementary%20Materials%201.pdf) |
-| **Supplementary Materials 2** | Excel | Comprehensive Data Tables | [📊 Download Excel](Supplementary%20Materials%202.xlsx) |
+| **Supplementary Materials 1** | PDF | Supplementary Methods & Figures | [📄 Download PDF](Supplementary%20Materials%201.pdf) |
+| **Supplementary Materials 2** | Excel | Supplementary Tables | [📊 Download Excel](Supplementary%20Materials%202.xlsx) |
 
 ---
 
